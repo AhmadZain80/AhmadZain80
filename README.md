@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzain80" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadzain80" alt="ahmadzain80" /></a> </p>
-
 - 🔭 I’m currently working on **Advanced RAG Systems & AI Agents**
 
 - 🌱 I’m currently learning **LanGraph, Multi-Agent Architectures & Model Context Protocol(MCP)**
