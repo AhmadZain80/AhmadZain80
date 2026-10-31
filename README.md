@@ -1,10 +1,4 @@
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/ahmadzain80/ahmadzain80/main/gpt-image-2_MASTER_PROMPT_AHMAD_ZAIN_LUXURY_AI_ENGINEER_PERSONAL_BRAND_BANNER_Create_an_extr-0.jpg"
-    alt="Ahmad Zain | Generative AI Engineer"
-    width="100%"
-  />
-</div>
+
 <img align="right" alt="coding" width="400" src="690916725-7e18ac3d-ac77-47da-b0c8-ffebcb0d3d60-removebg-preview.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzain80" /> </p>
