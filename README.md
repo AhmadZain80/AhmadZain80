@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Ahmad Zain_ Building Intelligent AI Systems.png"/>
+  <img src="Ahmad Zain_ Building Intelligent AI Systems.png" width="100%" alt="Ahmad Zain_ Building Intelligent AI Systems.png"/>
 </div>
 <img align="right" alt="coding" width="400" src="690916725-7e18ac3d-ac77-47da-b0c8-ffebcb0d3d60-removebg-preview.png" />
 
