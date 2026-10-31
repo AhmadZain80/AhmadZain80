@@ -2,6 +2,8 @@
 <h3 align="center">Passionate AI Engineer building LLM applications, RAG systems, and AI Agents.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/7e18ac3d-ac77-47da-b0c8-ffebcb0d3d60" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzain80" /> </p>
+
 - 🔭 I’m currently working on **Advanced RAG Systems & AI Agents**
 
 - 🌱 I’m currently learning **LanGraph, Multi-Agent Architectures & Model Context Protocol(MCP)**
