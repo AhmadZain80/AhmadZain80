@@ -1,35 +1,276 @@
-<h1 align="center">Hi 👋, I'm Ahmad Zain</h1>
-<h3 align="center">Passionate AI Engineer building LLM applications, RAG systems, and AI Agents.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzain80" /> </p>
+<!-- ====================================================== -->
+<!--                 AHMAD ZAIN | PROFILE                   -->
+<!-- ====================================================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadzain80" alt="ahmadzain80" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Advanced RAG Systems & AI Agents**
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=200&section=header&text=AHMAD%20ZAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GENERATIVE%20AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20RAG&descAlignY=58&descSize=16"/>
 
-- 🌱 I’m currently learning **LanGraph, Multi-Agent Architectures & Model Context Protocol(MCP)**
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Developing+Advanced+RAG+Architectures;Turning+AI+Ideas+Into+Real+Products" alt="Typing SVG"/>
+</a>
 
-- 👯 I’m looking to collaborate on **Generative AI, Agentic AI & Open-Source Projects**
+<br/>
 
-- 🤝 I’m looking for help with **Advanced RAG, Multi-Agent Systems & MCP**
+<a href="https://github.com/ahmadzain80">
+<img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge"/>
+</a>
+<img src="https://img.shields.io/github/followers/ahmadzain80?label=FOLLOWERS&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/ahmadzain80?label=TOTAL%20STARS&style=for-the-badge&color=yellow"/>
 
-- 💬 Ask me about **Python, LangChain, LangGraph, RAG & LLM Applications**
+<br/><br/>
 
-- 📫 How to reach me **ahmadzain12012005@gmail.com**
+**AI Engineer | Generative AI | LLM Applications | Agentic AI**
 
-- ⚡ Fun fact **I love turning AI ideas into working applications!**
+*Passionate about building intelligent applications that solve real-world problems.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-zain-49683837a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-zain-49683837a" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmadzain80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadzain80" height="30" width="40" /></a>
+📍 Pakistan &nbsp; | &nbsp; 🎓 BS Computer Science, UMT &nbsp; | &nbsp; 🚀 Open to AI/ML Opportunities
+
+</div>
+
+---
+
+## 🧠 ABOUT ME
+
+```python
+class AhmadZain:
+
+    def __init__(self):
+        self.name = "Ahmad Zain"
+        self.role = "Aspiring AI Engineer"
+        self.education = "BS Computer Science @ UMT"
+        self.cgpa = 3.7
+
+        self.interests = [
+            "Generative AI",
+            "Agentic AI",
+            "Multi-Agent Systems",
+            "Advanced RAG",
+            "LLM Applications",
+            "AI Automation"
+        ]
+
+        self.current_focus = [
+            "LangGraph",
+            "MCP Servers",
+            "Advanced RAG",
+            "AI Agents"
+        ]
+
+    def say_hi(self):
+        print("Let's build something intelligent!")
+
+me = AhmadZain()
+me.say_hi()
+```
+
+## ⚡ WHAT I'M DOING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Working On
+- Advanced RAG Systems
+- AI Agents & Multi-Agent Workflows
+- MCP Server Integrations
+- LLM-powered Applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+- LangGraph
+- Agentic AI Architectures
+- Model Context Protocol
+- Advanced Retrieval Techniques
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 Collaboration Interests
+- Generative AI
+- Open-Source AI Projects
+- AI Agents
+- RAG Applications
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Ask Me About
+- Python
+- LangChain & LangGraph
+- RAG & Vector Databases
+- LLM Applications
+- FastAPI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECH STACK
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### AI / Machine Learning / Generative AI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadzain80&show_icons=true&locale=en&layout=compact" alt="ahmadzain80" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-0B7285?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-00A6A6?style=for-the-badge&logo=protocols.io&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadzain80&show_icons=true&locale=en" alt="ahmadzain80" /></p>
+### Backend / Databases / Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzain80&" alt="ahmadzain80" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,postman,vscode,html,css&theme=dark"/>
+</p>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+### ⚡ GitHub Performance
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=ahmadzain80&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadzain80&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ahmadzain80&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<br/><br/>
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadzain80&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ahmadzain80/ahmadzain80/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌌 3D CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadzain80&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/ahmadzain80?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_My_Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<!-- Replace these with your actual repository names when ready -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 PDF Chatbot
+An intelligent document question-answering application using RAG and LLMs.
+
+**Tech:** Python, FastAPI, PostgreSQL, LangChain
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Advanced RAG
+Exploring hybrid retrieval, reranking, and context-aware retrieval architectures.
+
+**Tech:** Python, BM25, Vector Search, RRF
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 GitHub MCP Agent
+Exploring AI-powered coding workflows and GitHub tool integrations.
+
+**Tech:** Python, MCP, LangGraph
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Multi-Agent AI System
+Designing intelligent workflows with specialized agents and verification.
+
+**Tech:** LangGraph, LLMs, Agentic AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ahmad-zain-49683837a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ahmadzain80">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/ahmadzain80">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="mailto:ahmadzain12012005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💡 "Turning AI Ideas Into Intelligent Solutions."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer"/>
+
+</div>
