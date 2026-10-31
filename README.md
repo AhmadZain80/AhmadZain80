@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Ahmad Zain — Building Intelligent AI Systems"/>
+</div>
 <img align="right" alt="coding" width="400" src="690916725-7e18ac3d-ac77-47da-b0c8-ffebcb0d3d60-removebg-preview.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadzain80&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadzain80" /> </p>
