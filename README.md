@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadzain80/ahmadzain80/main/gpt-image-2_MASTER_PROMPT_AHMAD_ZAIN_LUXURY_AI_ENGINEER_PERSONAL_BRAND_BANNER_Create_an_extr-0.jpg" alt="Ahmad Zain" width="35%">
-</p>
+ <table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ahmadzain80/ahmadzain80/main/gpt-image-2_MASTER_PROMPT_AHMAD_ZAIN_LUXURY_AI_ENGINEER_PERSONAL_BRAND_BANNER_Create_an_extr-0.jpg" width="35%" alt="Ahmad Zain">
+    </td>
+  </tr>
+</table>
 </p>
 <img align="right" alt="coding" width="400" src="690916725-7e18ac3d-ac77-47da-b0c8-ffebcb0d3d60-removebg-preview.png" />
 
