@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zain</h1>
 <h3 align="center">Passionate AI Engineer building LLM applications, RAG systems, and AI Agents.</h3>
-<img align="right" alt="coding" width="400" src="Futuristic AI Workspace Portrait.png" />
-
+<img align="right" alt="coding" width="400" src="<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/83b4b449-7174-4be0-bd0f-b8ec8df5b6a9" />
 
 - 🔭 I’m currently working on **Advanced RAG Systems & AI Agents**
 
